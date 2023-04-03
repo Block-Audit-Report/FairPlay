@@ -1,3 +1,4 @@
 # FairPlay
 
-![Certificate_FairPlay (2)](https://user-images.githubusercontent.com/81981737/184363044-650130eb-23bf-4555-8e85-a85e56664b4c.jpg)
+![fairplayeasy](https://user-images.githubusercontent.com/121312707/229459818-96023383-d9b0-4350-87fe-d666c27c9260.png)
+
